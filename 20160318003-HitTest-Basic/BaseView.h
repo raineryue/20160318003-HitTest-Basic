@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  BaseView.h
 //  20160318001-TouchEvent
 //
 //  Created by Rainer on 16/3/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface BaseView : UIView
 
 @end
-

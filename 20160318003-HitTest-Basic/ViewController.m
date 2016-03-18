@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  20160318003-HitTest-Basic
+//  20160318001-TouchEvent
 //
 //  Created by Rainer on 16/3/18.
 //  Copyright © 2016年 Rainer. All rights reserved.
@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
 }
 
 - (void)didReceiveMemoryWarning {

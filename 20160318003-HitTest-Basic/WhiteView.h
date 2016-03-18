@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  WhiteView.h
 //  20160318001-TouchEvent
 //
 //  Created by Rainer on 16/3/18.
@@ -7,9 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "BaseView.h"
 
-@interface ViewController : UIViewController
-
+@interface WhiteView : BaseView
 
 @end
-
